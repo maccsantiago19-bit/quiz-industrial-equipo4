@@ -1,0 +1,29 @@
+[
+  {
+    "pregunta": "¿Qué es un tiempo estándar?",
+    "opciones": [
+      "Tiempo promedio sin método definido",
+      "Tiempo establecido para realizar una operación bajo condiciones normales",
+      "Tiempo máximo permitido por el supervisor"
+    ],
+    "correcta": "Tiempo establecido para realizar una operación bajo condiciones normales"
+  },
+  {
+    "pregunta": "La eficiencia se calcula como:",
+    "opciones": [
+      "Producción real / Producción esperada",
+      "Tiempo muerto / Tiempo total",
+      "Horas trabajadas / Horas pagadas"
+    ],
+    "correcta": "Producción real / Producción esperada"
+  },
+  {
+    "pregunta": "¿Qué indica la capacidad productiva?",
+    "opciones": [
+      "El número de empleados",
+      "La cantidad máxima que se puede producir en un periodo",
+      "La velocidad de una máquina"
+    ],
+    "correcta": "La cantidad máxima que se puede producir en un periodo"
+  }
+]
